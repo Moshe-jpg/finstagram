@@ -1,0 +1,15 @@
+header {
+    background-color: red;
+    padding: 70px;
+    margin: 50px 20px 50px 20px;
+}
+.test {
+    background-color: red;
+    padding: 75px;
+    margin: 50px 20px 50px 20px;   
+}
+.test2 {
+    background-color: black;
+    padding: 70px;
+    margin: 50px 20px 50px 20px;
+}
